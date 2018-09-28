@@ -1,0 +1,15 @@
+#ttl{
+    font-size: 50px;
+    
+    color: teal;
+
+    font-style: oblique;
+}
+html{
+    min-height: 100%;
+}
+body{
+    padding: 5%;
+    background: linear-gradient( #00ffff 0%, #3366ff 100%);
+
+}
